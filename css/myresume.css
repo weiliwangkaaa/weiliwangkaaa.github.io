@@ -29,6 +29,10 @@ h1 .text-primary {
 	color: #6A5ACD!important;
 }
 
+.thead text-primary{
+	color: #FFFFFF；
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
