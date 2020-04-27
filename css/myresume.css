@@ -134,7 +134,7 @@ a:active, a:focus, a:hover {
   }
 }
 
-h1 .table .thead .tr .th .text-primary {
+.table .thead .tr .th .text-primary {
 	color: #FFFFFF!important；
 }
 
