@@ -29,10 +29,6 @@ h1 .text-primary {
 	color: #6A5ACD!important;
 }
 
-th .text-primary{
-	coloe: #FFFFFF!important；
-}
-
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
@@ -137,4 +133,10 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
+
+h2 table thead tr th .text-primary {
+	color: #FFFFFF!important；
+}
+
+
 
