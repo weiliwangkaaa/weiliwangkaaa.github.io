@@ -25,6 +25,10 @@ h1 .text-primary {
 	background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 }
 
+th .text-primary {
+	color: #FFFFFF!important；
+}
+
 .text-primary {
 	color: #6A5ACD!important;
 }
@@ -133,10 +137,4 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
-
-.table .thead .tr .th .text-primary {
-	color: #FFFFFF!important；
-}
-
-
 
